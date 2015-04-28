@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hackería</title><link href="http://hackeria.cl/" rel="alternate"></link><link href="http://hackeria.cl/feeds/all.atom.xml" rel="self"></link><id>http://hackeria.cl/</id><updated>2015-04-28T00:00:00+02:00</updated><entry><title>Primer Post</title><link href="http://hackeria.cl/primer-post.html" rel="alternate"></link><updated>2015-04-28T00:00:00+02:00</updated><author><name>hackeria</name></author><id>tag:hackeria.cl,2015-04-28:primer-post.html</id><summary type="html">&lt;h3&gt;El Primer Post&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;uno&lt;/li&gt;
+&lt;li&gt;dos&lt;/li&gt;
+&lt;li&gt;tres&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>

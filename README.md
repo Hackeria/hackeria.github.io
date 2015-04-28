@@ -1,2 +1,0 @@
-# hackeria.github.io
-web 
